@@ -16,7 +16,7 @@ Installation
 Issue following command in console:
 
 ```php
-composer require bariton3/mqseries-php
+composer require aragoneca/mqseries-php
 ```
 
 Alternatively  edit composer.json by adding following line and run **`composer update`**
